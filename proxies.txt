@@ -1,3 +1,10 @@
-# PLEASE REMOVE JUST EXAMPLE!
-http://ip:port
-http://username:password@ip:port
+http://21773547-zone-custom-sessid-Z6NM2O2K-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-H0IBHEat-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-Q4hc3Wsm-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-u7qq0WCr-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-uvQt38Ef-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-d7vEb9rz-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-9rNyOpFH-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-tGp2GUeP-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-aSzxc8Ww-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-vL33Ubrl-sessTime-15:r2r15Tk0@aus.360s5.com:3600
